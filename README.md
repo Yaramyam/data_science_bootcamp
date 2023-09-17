@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spin
 - Python programing
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn: https://www.linkedin.com/in/wanitchayayuanyee/
