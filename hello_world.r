@@ -1,4 +1,4 @@
-## my frist R program
+## my first R program
 print("Hello world")
 print("My name is Yaram")
 
@@ -7,3 +7,6 @@ mtcars %>%
   select(1:5) %>%
   filter(mpg > 30)
 
+mtcars %>%
+  select(mpg) %>%
+  filter(mpg < 30)
